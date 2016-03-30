@@ -8,4 +8,4 @@
 3. 调整位置，即通过margin-left(right)进行位置移动
 
 ## Screenshot
-![screenshot.jpg](https://raw.githubusercontent.com/Yacent/FEtraining/tree/master/Holy_Grail_of_Layouts/screenshot.jpg)
+![screenshot.jpg](https://github.com/Yacent/FEtraining/blob/master/Holy_Grail_of_Layouts/screenshot.jpg?raw=true)
