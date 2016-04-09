@@ -1,0 +1,44 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.carousel {
+	width: 360%;
+
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+
+	transform: translate3d(0,0,0);
+	transition: transform .4s;
+
+	overflow: hidden;
+}
+
+.page {
+	float: left;
+
+	width: 20%;
+	height: 200px;
+	border-radius: 5px;
+
+	color: #fff;
+	text-align: center;
+	line-height: 200px;
+	font-size: 50px;
+	list-style: none;
+}
+
+#page1 {
+	background-color: rgb(255, 0, 0);
+}
+
+#page2 {
+	background-color: rgb(0, 255, 0);
+}
+
+#page3 {
+	background-color: rgb(0, 0, 255);
+}
