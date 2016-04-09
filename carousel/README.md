@@ -50,4 +50,4 @@ http://codepen.io/yacent/pen/zqpbyO
 			两次bind之后，是不同的函数，类似于 function() 匿名函数
 
 ## Screenshot
-![screenshot.jpg](https://github.com/Yacent/FEtraining/blob/master/Holy_Grail_of_Layouts/screenshot.jpg?raw=true)
+![screenshot.jpg](https://github.com/Yacent/FEtraining/blob/master/carousel/screenshot.jpg?raw=true)
