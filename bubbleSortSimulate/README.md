@@ -1,6 +1,9 @@
 ## 说明
 用JS实现一个冒泡排序的过程
 
+##DEMO
+http://codepen.io/yacent/pen/eZGQyY
+
 ## 算法
 	
 	// core
