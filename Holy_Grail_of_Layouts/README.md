@@ -2,7 +2,7 @@
 圣杯布局，经典的三列布局。又称为双飞翼布局。
 
 ##DEMO
-http://codepen.io/yacent/pen/eZGQyY
+http://codepen.io/yacent/pen/zqZPWa
 
 ## 实现要点
 
