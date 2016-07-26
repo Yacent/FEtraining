@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<p id="test">please change my color</p>
+
+	<script type="text/javascript">
+	(function() {
+		function _$(id) {
+			this.elem = document.getElementById(id);
+		}
+
+		_$.prototype = {
+			setColor: function(c) {
+				this.elem.style.color = c;
+				return this;
+			},
+			setFont: function(z) {
+				this.elem.style.fontSize = z;
+				return this;
+			}
+		};
+
+		window.$ = function(id) {
+			return new _$(id);
+		}
+	})()
+	</script>
+</body>
+</html>
