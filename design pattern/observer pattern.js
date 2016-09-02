@@ -1,6 +1,6 @@
 // 观察者模式 subsribe/dispatch
 var eventEmitter = {
-	_events: {},
+	events: {},
 
 	dispatch: function(event, data) {
 		if (!this.events[event]) {
